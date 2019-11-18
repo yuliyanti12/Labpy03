@@ -1,39 +1,6 @@
 # Labpy03
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@yuliyanti12 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-1
-03dilah199/labspy03dila
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights
-No description, website, or topics provided.
- 4 commits
- 2 branches
- 0 packages
- 0 releases
- 2 contributors
-@dilah199
-dilah199 Update README.md
-Latest commit
-a859457
-4 days ago
-Type	Name	Latest commit message	Commit time
-gambar	update gambar	4 days ago
-README.md	Update README.md	4 days ago
- README.md
-labspy03dila
-Latihan1
-Random
-Bilangan acak(Random) adalah bilangan yang kemunculannya terjadi secara acak.
+acak(Random) adalah bilangan yang kemunculannya terjadi secara acak.
 Bilangan acak yang di bangkitakan oleh komputer adalah bilangan acak semu(pseudo random number). Bilangan acak ini untuk keperluan simulasi. Berikut ini contoh bilangan acak (random) yang lebih kecil :
 
 Langkah-langkah menampilkan nilai n pada bilangan acak yang lebih kecil dari 0.5.
@@ -49,6 +16,9 @@ Step angka 1
 Perulangan i dengan nilai awal variable start, nilai akhir variable stop dan step variable step
 Perulangan i dengan nilai awal variable start, nilai akhir variable stop dan step variable step
 Contoh gambar input end
+
+![output add](
+
 Contoh gambar hasil run
 output end
 
